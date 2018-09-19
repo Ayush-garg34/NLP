@@ -1,3 +1,3 @@
 # NLP
 
-Here is the list of the all homeworks in NLP course
+Here is the list of all the homeworks in NLP course at IIT Gandhinagar.
